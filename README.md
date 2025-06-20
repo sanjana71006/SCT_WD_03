@@ -78,12 +78,6 @@ npm run dev
 
 ---
 
-## 📷 Preview
-
-> ![Game Preview](./skillcraft.jpeg)
-
----
-
 ## 📬 Feedback
 
 If you encounter bugs or have suggestions, feel free to open an issue or contribute via pull requests!
