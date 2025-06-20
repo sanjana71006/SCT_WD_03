@@ -1,16 +1,3 @@
-Here’s a **200-character GitHub description** with emojis and a **detailed `README.md`** file for your Tic Tac Toe game project.
-
----
-
-### 🔹 GitHub Repo Description (200 characters):
-
-> 🎮 A fully customizable Tic Tac Toe game built with React + TypeScript ⚛️. Includes dark mode, difficulty levels, and sound effects! 👩‍💻🕹️ \[Deployed or local run supported] 🚀
-
----
-
-### 📄 README.md Content:
-
-```markdown
 # 🎮 Tic Tac Toe Web App | React + TypeScript
 
 A modern, interactive Tic Tac Toe game built using **React**, **TypeScript**, and **Tailwind CSS**. Play against the computer or a friend, customize settings, switch between light/dark modes, and enjoy smooth transitions and responsive design!
